@@ -1,6 +1,6 @@
-soc
+youtube
 =====================
-yt: https://www.youtube.com/channel/UCAkmJUeB1aWRy80iRKUO0rw
+https://www.youtube.com/channel/UCAkmJUeB1aWRy80iRKUO0rw
 
 downloads
 =====================
